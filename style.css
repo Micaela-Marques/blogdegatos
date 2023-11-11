@@ -191,7 +191,7 @@ footer {
     gap: 44px;
     height: 100vh;
 
-    grid-template-columns: repeat(3, 2fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 
   header {
