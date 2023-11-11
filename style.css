@@ -179,10 +179,6 @@ footer {
     width: 100%;
   }
 
- 
-  input {
-    width: 500px;
-  }
 }
 @media (min-width: 1024px) {
   .container {
